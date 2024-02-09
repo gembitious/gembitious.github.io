@@ -1,3 +1,4 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Allow: /
+Sitemap: https://jeong-min.com/sitemap.xml
+Host: https://jeong-min.com
